@@ -4,13 +4,13 @@
 
 🇳🇿出售 GV 英国 美国 新西兰 SIM 卡：https://github.com/ssnhd/sim
 
-## 手机号码
+## 本机号码
 
-包装和卡上都会显示手机号（示例：088xxxxxx88），将号码前面“0”替换为区号“+64”，登录官网或 App 时再变为“0”。
+卡上 MOBILE 是号码（示例：0204xxx8888），也可以发短信 `my number` 到 `2424` 查询号码。
 
-已经在新西兰激活，将卡插入手机等待有信号即可使用，在中国走移动信号。
+新西兰区号 `+64`。
 
-![](https://i.imgur.com/AzDMQ8X.jpeg)
+注：日常使用去掉号码前面的 “0”，登录官网或 App 时加上。
 
 ## 资费
 
@@ -42,7 +42,7 @@
 
 ## 查看有效期、余额
 
-- 手机端：登录 Skinny App，点击右下角 **More**，点击右上角 **View and edit profile**，可查看到充值日期，从这个日期算起，12 个月内有效。
+- App：登录 Skinny App，点击右下角 **More**，点击右上角 **View and edit profile**，可查看到充值日期，从这个日期算起，12 个月内有效。
 
 - 网页端：登录 https://signin.skinny.co.nz ，点击右上角 **My Account**，找到 **SIM Card** 即可查看有效期和余额。
 
